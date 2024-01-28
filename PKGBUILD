@@ -1,6 +1,6 @@
 # Maintainer: Kieran B Crossland <kierancrossland1st@gmail.com>
 pkgname=calculator-c
-pkgver=0.3
+pkgver=0.4
 pkgrel=1
 pkgdesc="A simple arithmetic calculator written in C."
 arch=('i686' 'pentium4' 'x86_64' 'arm' 'armv7h' 'armv6h' 'aarch64')
